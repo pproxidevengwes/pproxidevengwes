@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Anna Maria Mitkova
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 **pproxidevengwes/pproxidevengwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
