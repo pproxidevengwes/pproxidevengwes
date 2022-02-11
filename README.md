@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Anna Maria Mitkova
+### Hey 👋, I'm Anna Maria Mitkova
 
 <!--
 **pproxidevengwes/pproxidevengwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
