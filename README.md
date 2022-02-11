@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anna-maria-mitkova-5459a3173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/anna-maria-mitkova-5459a3173?trk=profile-badge">Anna Maria Mitkova</a></div>
               
+v 
