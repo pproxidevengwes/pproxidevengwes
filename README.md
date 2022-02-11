@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/anna-maria-mitkova-5459a3173/" target="blank"><img align="center" src="https://platform.linkedin.com/badges/js/profile.js" alt="" height="30" width="40" /></a>
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="https://www.linkedin.com/in/anna-maria-mitkova-5459a3173/"></script>
