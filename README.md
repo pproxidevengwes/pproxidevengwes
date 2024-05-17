@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on SoftUni - Spring Fundamentals projects
 - 🌱 I’m currently learning Spring Data and Java 
-- 👯 I’m looking to collaborate on Spring Data and Java based procects
+- 👯 I’m looking to collaborate on Spring Data and Java based projects
 - 🐺 Ask me about my dog
 - 📫 How to reach me: aimitkova@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: 
 
 ## Connect with Me
 
