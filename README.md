@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on SoftUni - Spring Fundamentals projects
 - 🌱 I’m currently learning Spring Data and Java 
-- 🐺 Ask me anything about my dog
 - 📫 How to reach me: aimitkova@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My dog loves to eat absolutely everything, but her favorite treat is actually a healthy one — she can't get enough of crunchy carrots!
