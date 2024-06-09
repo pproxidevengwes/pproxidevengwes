@@ -14,7 +14,7 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)[(https://www.linkedin.com/in/annamaria-mitkova-5459a3173/)]]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)[(https://www.linkedin.com/in/annamaria-mitkova-5459a3173/)]
 
 ## My GitHub Stats
 
