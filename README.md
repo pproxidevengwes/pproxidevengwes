@@ -2,7 +2,6 @@
 # Hi there, I'm Annie 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/pproxidevengwes?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/pproxidevengwes?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## About Me
 
